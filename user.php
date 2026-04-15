@@ -11,14 +11,14 @@
     <form action="./conn.php" method="post">
         <input type="text" name="name" placeholder="name">
         <br><br>
-        <input type="email" name="email" placeholder="email">
+        <input type="text" name="phone" placeholder="email">
         <br><br>
 
-        <input type="password" name="password" placeholder="password">
+        <!---   <input type="password" name="password" placeholder="password">. -->
         <br><br>
         <button>submmit</button>
     </form>
 
 </body>
 
-</html>
+<br><br><br><br><br>
